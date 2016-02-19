@@ -18,6 +18,10 @@
   background-color: #7B4B2A;
 }
 
+.caucasian {
+  background-color: #FFE0BD;;
+}
+
 .trump-hat,
 .trump-hat-bill {
   background-color: red;
@@ -253,7 +257,6 @@
 }
 
 .head {
-  background-color: #FFE0BD;
   border-radius: 50%;
   height: 100px;
   width: 100px;
