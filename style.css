@@ -19,7 +19,11 @@
 }
 
 .caucasian {
-  background-color: #FFE0BD;;
+  background-color: #FFE0BD;
+}
+
+.dropped {
+  display: none;
 }
 
 .trump-hat,
