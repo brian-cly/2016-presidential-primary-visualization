@@ -1,0 +1,10 @@
+{
+	"name": "2016-presidential-primary-visualization",
+	"version": "1.0.0",
+	"description": "visualization of the 2016 presidential primary",
+	"main": "js/script.js",
+	"devDependencies": {
+		"gulp": "latest",
+		"gulp-coffee": "latest"
+	}
+}
