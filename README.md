@@ -3,3 +3,7 @@ Barebones visualization of current national primary polls for United States Elec
 In addition to drawing in CSS, I've since added:
 * CoffeeScript
 * Gulp
+
+To run:
+
+	gulp
